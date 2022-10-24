@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="banks_title">Banks</string>
+    <string name="banks_age">%s years</string>
+</resources>

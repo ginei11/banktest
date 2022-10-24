@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/buildSrc" />
+            <option value="$PROJECT_DIR$/common" />
+            <option value="$PROJECT_DIR$/common/navigation" />
+            <option value="$PROJECT_DIR$/common/network" />
+            <option value="$PROJECT_DIR$/domains" />
+            <option value="$PROJECT_DIR$/domains/banks" />
+            <option value="$PROJECT_DIR$/domains/banks/api" />
+            <option value="$PROJECT_DIR$/domains/banks/impl" />
+            <option value="$PROJECT_DIR$/domains/banks/wiring" />
+            <option value="$PROJECT_DIR$/presentation" />
+            <option value="$PROJECT_DIR$/presentation/design-system" />
+            <option value="$PROJECT_DIR$/presentation/design-system/atoms" />
+            <option value="$PROJECT_DIR$/presentation/design-system/organism" />
+            <option value="$PROJECT_DIR$/presentation/features" />
+            <option value="$PROJECT_DIR$/presentation/features/banks" />
+            <option value="$PROJECT_DIR$/presentation/features/banks/api" />
+            <option value="$PROJECT_DIR$/presentation/features/banks/impl" />
+            <option value="$PROJECT_DIR$/presentation/features/banks/wiring" />
+            <option value="$PROJECT_DIR$/presentation/navigation" />
+            <option value="$PROJECT_DIR$/presentation/navigation/api" />
+            <option value="$PROJECT_DIR$/presentation/navigation/impl" />
+            <option value="$PROJECT_DIR$/presentation/navigation/wiring" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--spacings -->
+    <dimen name="spacing_point_five">0.5dp</dimen>
+
+    <dimen name="spacing_2">8dp</dimen>
+
+    <!--view size-->
+    <dimen name="view_size_56">56dp</dimen>
+    <dimen name="view_size_112">112dp</dimen>
+
+    <!--Elevations-->
+    <dimen name="elevation_3">8dp</dimen>
+
+    <!--radius-->
+    <dimen name="radius_2">4dp</dimen>
+    <dimen name="radius_4">8dp</dimen>
+</resources>
