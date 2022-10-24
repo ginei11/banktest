@@ -1,13 +1,14 @@
 # Arquitectura implementada 🌇
 
-Hablando de código... 💻
 ☕ Arquitectura... se implementó la arquitectura Hexagonal de la mano de DDD y MVVM, sin olvidar los principios SOLID.
 implementar esta arquitectura nos permite tener desacoplada la logica de negocio de la interfaz de usuario de estar forma es mas facil de mantener y testear.
 La estrategia de modularizacion implementada permite que los componentes se puedan reutilizar en otros proyectos.
 
 ✍️ Lenguaje/tecnología... todo esto fue desarrollado en kotlin.
 
-Y la base de datos... ¿qué? ⛅ Se utilizo Room
+Y la base de datos... ¿qué? ⛅ 
+
+Se utilizo Room
 Si abrimos por primera vez la aplicacion se consultara si hay una lista de bancos, si esta vacia se realizara la solicitud
 a la api, cuando este responda montara la data en la BaseDatos para que proximas veces no tenga que consultar nuevamente la api.
 
